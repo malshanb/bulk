@@ -2,6 +2,7 @@
 name = "bulk"
 version = "1.0.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 image = "0.25"

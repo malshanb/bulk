@@ -1,3 +1,6 @@
+// Copyright (c) 2025 MALSHAN BANDARA [https://github.com/malshanb]
+// SPDX-License-Identifier: MIT
+
 use clap::{ArgGroup, Parser};
 use image::{DynamicImage, GenericImageView, RgbaImage};
 use std::fs;
